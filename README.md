@@ -29,3 +29,4 @@ Description of what this idea will solve.
 ```
 
 - Any embedded images should be within the `TheHeadlineOfTheNewIdea` folder.
+- Add a link to the new idea from the frontpage (`/README.md`) in alphabetically order.
