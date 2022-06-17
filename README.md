@@ -14,7 +14,7 @@ Send a PR with the following content:
 - A new file named `Ideas/TheHeadlineOfTheNewIdea/README.md` (replace `TheHeadlineOfTheNewIdea` with a real headline).
 - The content of the `README.md` file should follow this template:
 
-```md
+```
 # The Headline Of The New Idea
 
 Description of what this idea will solve.
