@@ -1,4 +1,4 @@
-# Get an email when you've got mail
+# Get an email when you've got snail mail
 
 Why walk to and from an empty mailbox every day? Get en mail when mail is delivered to your mailbox to reduce your daily steps.
 
