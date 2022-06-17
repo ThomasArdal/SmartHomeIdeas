@@ -11,7 +11,7 @@ A public place to share smart home ideas
 
 Send a PR with the following content:
 
-- A new file named `TheHeadlineOfTheNewIdea/README.md`.
+- A new file named `TheHeadlineOfTheNewIdea/README.md` (replace `TheHeadlineOfTheNewIdea` with a real headline).
 - The content of the `README.md` file should follow this template:
 
 ```md
