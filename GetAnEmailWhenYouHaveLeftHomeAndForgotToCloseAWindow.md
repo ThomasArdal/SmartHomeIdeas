@@ -23,7 +23,7 @@ I have a windows that I sometimes forget to close before leaving home. It's not 
 10. In the *Trigger* part select *Webhooks by Zapier* and *Catch Hook* as in the previous zaps.
 11. Add a new action and select the *Storage by Zapier* app and the *Get Value* event. In the *Key* field input *window_state*.
 12. Add a new action and select the *Filter by Zapier* app. In the *Only continue if* part select *Get Value in Storage by Zapier* and *Value*. In the configuration select *(Text) Exactly matches* and input the value *1*.
-13. Add a new action and select the *Email by Zapier* app. Select *Send Outbound Email and input your email and a suitable message to let yourself know that you forgot to close the window. Publish the Zap.
+13. Add a new action and select the *Email by Zapier* app. Select *Send Outbound Email* and input your email and a suitable message to let yourself know that you forgot to close the window. Publish the Zap.
 14. Sign into IFTTT and create a new Applet.
 15. In the *If* part select the *eWeLink Smart Home* service and sign in with your eWeLink account.
 16. Select *Zigbee door sensor is open or closed* and select the sensor from the dropdown.
